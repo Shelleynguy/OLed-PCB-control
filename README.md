@@ -1,6 +1,16 @@
 # OLed-PCB-control
-Custom PCB layout.
-An OLed screen SSD1306 controlled with 3 buttons with an on/off button under a latch power control circuit connected to the arduino nano. 
-This PCB was created using KiCad V 9.0.2 and JLCPCB to manufacture the gerber file of the PCB. 
-Files includes the cschematic, PCB layout, and components included to solder the PCB. 
 
+OLed-PCB-control is a custom PCB project for controlling an SSD1306 OLED display using an Arduino Nano and 3 user buttons, including an on/off latch power circuit. The project provides all necessary KiCad design files and manufacturing outputs for easy assembly and use.
+
+## Features
+
+- SSD1306 OLED screen interface (I2C)
+- 3 user input buttons
+- On/off latch power circuit for energy efficiency
+- Designed for Arduino Nano integration
+- Easy-to-manufacture PCB (tested with JLCPCB)
+- Includes schematic, PCB layout, and component list
+
+## Getting Started
+
+1. Clone the repository:
