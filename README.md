@@ -9,8 +9,6 @@ OLed-PCB-control is a custom PCB project for controlling an SSD1306 OLED display
 - On/off latch power circuit for energy efficiency
 - Designed for Arduino Nano integration
 - Easy-to-manufacture PCB (tested with JLCPCB)
-- Includes schematic, PCB layout, and component list
+- Includes schematic, PCB layout, and component list such as the custom and assigned footrprints
+- 
 
-## Getting Started
-
-1. Clone the repository:
